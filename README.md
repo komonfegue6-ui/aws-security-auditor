@@ -73,4 +73,4 @@ provides read-only access to scan AWS services.
 
 **Komon Ulrich Andy Fegue**  
 AWS Certified Cloud Practitioner  
-[LinkedIn]([www.linkedin.com/in/komon-fegue-789746388]) | [GitHub](https://github.com/komonfegue6-ui)
+[LinkedIn](https://www.linkedin.com/in/komon-fegue-789746388/) | [GitHub](https://github.com/komonfegue6-ui)
